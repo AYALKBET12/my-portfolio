@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    box-sizing: border-box;
+
+}
+ .a1{
+    display: block;
+    padding: 10px;
+    background-color: aqua;
+    margin-bottom: 10px;
+    
+}
+.a2{
+ display: block;
+    padding: 10px;
+    background-color: aqua;
+}
+p{
+    font-size: 30;
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+}

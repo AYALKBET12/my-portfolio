@@ -1,0 +1,48 @@
+.Aheader{
+    background-color: blueviolet;
+    color: black;
+}
+.profile-img{
+    background-color: aliceblue;
+    width: 120px;
+    height: 120px;
+    border: none;
+    border-radius: 60 ;
+}
+.head{
+   display: flex;
+   justify-content: center;
+}
+.heading-text{
+    
+    font-size: 50px;
+    text-align: center;
+}
+.menu{
+    font-size: 50px;
+    border: none;
+    background-color: aquamarine;
+    color: black;
+    background: size 300px;
+    background-attachment: fixed;
+}
+.sec1{
+    font-size: 30px;
+    background-color: aliceblue;
+     color: black;
+     background-attachment: fixed;
+}
+.sec2{
+    font-size: 30px;
+    background-color:chocolate;
+    color: blue;
+         background-attachment: fixed;
+
+}
+.sec3{
+    font-size: 30px;
+    background-color:chartreuse;
+    color: white;
+         background-attachment: fixed;
+
+}
