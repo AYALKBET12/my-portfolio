@@ -9,7 +9,7 @@ body{
 
 }
 .all-header{
-    background-color: aquamarine;
+    background: linear-gradient(to right, #ADD8E6, green); /* Light Blue Gradient */
     padding: 20px;
     text-align: center;
     
